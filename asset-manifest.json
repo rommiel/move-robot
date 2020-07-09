@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/move-robot/static/css/main.9dc1fec6.chunk.css",
+    "main.js": "/move-robot/static/js/main.4396fc7f.chunk.js",
+    "main.js.map": "/move-robot/static/js/main.4396fc7f.chunk.js.map",
+    "runtime-main.js": "/move-robot/static/js/runtime-main.3b63032d.js",
+    "runtime-main.js.map": "/move-robot/static/js/runtime-main.3b63032d.js.map",
+    "static/js/2.f8abe477.chunk.js": "/move-robot/static/js/2.f8abe477.chunk.js",
+    "static/js/2.f8abe477.chunk.js.map": "/move-robot/static/js/2.f8abe477.chunk.js.map",
+    "index.html": "/move-robot/index.html",
+    "precache-manifest.2e1a85f5b41c5da366e725b000ec43ec.js": "/move-robot/precache-manifest.2e1a85f5b41c5da366e725b000ec43ec.js",
+    "service-worker.js": "/move-robot/service-worker.js",
+    "static/css/main.9dc1fec6.chunk.css.map": "/move-robot/static/css/main.9dc1fec6.chunk.css.map",
+    "static/js/2.f8abe477.chunk.js.LICENSE.txt": "/move-robot/static/js/2.f8abe477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b63032d.js",
+    "static/js/2.f8abe477.chunk.js",
+    "static/css/main.9dc1fec6.chunk.css",
+    "static/js/main.4396fc7f.chunk.js"
+  ]
+}
